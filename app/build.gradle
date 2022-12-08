@@ -7,7 +7,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.effective.effetiveinternship"
+        applicationId "com.effective.effectiveinternship"
         minSdk 21
         targetSdk 33
         versionCode 1

@@ -1,4 +1,4 @@
-package com.effective.effetiveinternship
+package com.effective.effectiveinternship
 
 import org.junit.Test
 

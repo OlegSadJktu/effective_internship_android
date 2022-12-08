@@ -1,4 +1,4 @@
-package com.effective.effetiveinternship.ui.theme
+package com.effective.effectiveinternship.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

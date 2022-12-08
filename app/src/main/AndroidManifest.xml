@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.effective.effetiveinternship">
+    package="com.effective.effectiveinternship">
 
     <application
         android:allowBackup="true"
@@ -8,12 +8,12 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.EffetiveInternship">
+        android:theme="@style/Theme.EffectiveInternship">
         <activity
-            android:name=".MainActivity"
+            android:name="com.effective.effectiveinternship.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.EffetiveInternship.NoActionBar">
+            android:theme="@style/Theme.EffectiveInternship.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
